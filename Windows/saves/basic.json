@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://s1.ax1x.com/2020/05/17/YR20js.jpg",
+                "content": "https://tandong123.github.io/medias/logo.png",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -233,7 +233,7 @@
                 "y": "y*0.1"
             },
             "version": "1.0.0",
-            "poweredBy": "Luckey",
+            "poweredBy": "TD",
             "resizable": true,
             "single": true,
             "size": {
@@ -241,7 +241,7 @@
                 "width": "x*0.8"
             },
             "title": "个人博客",
-            "url": "http://www.luckyzmj.cn",
+            "url": "https://github.com/tandong123",
             "customTile": "",
             "urlRandomToken": true
         },
