@@ -226,6 +226,13 @@
   </url>
   
   <url>
+    <loc>https://gitee.com/td278121/archives/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://gitee.com/td278121/categories/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
@@ -233,7 +240,7 @@
   </url>
   
   <url>
-    <loc>https://gitee.com/td278121/archives/index.html</loc>
+    <loc>https://gitee.com/td278121/census/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -248,13 +255,6 @@
   
   <url>
     <loc>https://gitee.com/td278121/contact/index.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gitee.com/td278121/census/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -310,21 +310,14 @@
   </url>
   
   <url>
-    <loc>https://gitee.com/td278121/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
-    
-    <lastmod>2020-10-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://gitee.com/td278121/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
-    
-    <lastmod>2020-10-08</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://gitee.com/td278121/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/td278121/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -338,14 +331,21 @@
   </url>
   
   <url>
-    <loc>https://gitee.com/td278121/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
+    <loc>https://gitee.com/td278121/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gitee.com/td278121/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
+    <loc>https://gitee.com/td278121/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://gitee.com/td278121/List/galleries/%E5%9F%8E%E5%B8%82%E9%A3%8E%E5%85%89/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
@@ -366,14 +366,14 @@
   </url>
   
   <url>
-    <loc>https://gitee.com/td278121/List/galleries/%E7%94%9C%E7%BE%8E%E9%A3%9F%E5%93%81/index.html</loc>
+    <loc>https://gitee.com/td278121/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
   </url>
   
   <url>
-    <loc>https://gitee.com/td278121/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
+    <loc>https://gitee.com/td278121/List/galleries/%E7%94%9C%E7%BE%8E%E9%A3%9F%E5%93%81/index.html</loc>
     
     <lastmod>2020-10-08</lastmod>
     
